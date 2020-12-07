@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmansEncoder", "HuffmansEncoder\HuffmansEncoder.csproj", "{837A4588-CD4F-4F9A-AD46-F03E11C20396}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{270AEB2E-1ACD-4305-A234-08640D3C4B32}"
+	ProjectSection(SolutionItems) = preProject
+		test.bin = test.bin
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837A4588-CD4F-4F9A-AD46-F03E11C20396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837A4588-CD4F-4F9A-AD46-F03E11C20396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837A4588-CD4F-4F9A-AD46-F03E11C20396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837A4588-CD4F-4F9A-AD46-F03E11C20396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF10E24-5252-4F87-A64D-6790B35DE64B}
+	EndGlobalSection
+EndGlobal
